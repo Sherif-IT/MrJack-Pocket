@@ -1,2 +1,3 @@
 # MrJack-Pocket
-simulation du Jeu  Mr Jack
+prototype du Jeu  Mr Jack Pocket,
+
