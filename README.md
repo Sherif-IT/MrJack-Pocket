@@ -1,3 +1,3 @@
 # MrJack-Pocket
-prototype du Jeu  Mr Jack Pocket,
+Prototype du Jeu  Mr Jack Pocket,
 
